@@ -1,7 +1,7 @@
 {
   "name": "aarenchu-e-portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://aarenchu.github.io/aarenchu-e-portfolio",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
