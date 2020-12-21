@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aarenchu-e-portfolio/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js",
-    "main.js.map": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js.map",
+    "main.js": "/aarenchu-e-portfolio/static/js/main.e72920bd.chunk.js",
+    "main.js.map": "/aarenchu-e-portfolio/static/js/main.e72920bd.chunk.js.map",
     "runtime-main.js": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js",
     "runtime-main.js.map": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js.map",
     "static/js/2.55cc19f3.chunk.js": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d87ae243.js",
     "static/js/2.55cc19f3.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.53c6f482.chunk.js"
+    "static/js/main.e72920bd.chunk.js"
   ]
 }
