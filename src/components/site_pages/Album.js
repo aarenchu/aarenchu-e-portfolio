@@ -94,7 +94,7 @@ export default function Album() {
                     <Card className={classes.card}>
                         <CardMedia
                         className={classes.cardMedia}
-                        img={MockServiceDiagram}
+                        image={MockServiceDiagram}
                         title="Mock Service Diagram"
                         />
                         <CardContent className={classes.cardContent}>
