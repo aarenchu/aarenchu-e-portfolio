@@ -6,6 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 import Link from '@material-ui/core/Link';
+import MockServiceDiagram from '../../MockService_Diagram.png';
 
 
 function Copyright() {
@@ -72,6 +73,7 @@ export default function MockServicePage() {
             <Typography component="h1" variant="h2" align="center" color="textPrimary" gutterBottom>
               Mock Service
             </Typography>
+            <img src={MockServiceDiagram} alt="Mock Service Diagram" />
             <Typography variant="p" align="left" color="textSecondary" paragraph>
                 This service was created for the team to test out the product that the rest of the team is working on.
                 I was required to complete this service by the time we were to demo the rest of the project to the company.
