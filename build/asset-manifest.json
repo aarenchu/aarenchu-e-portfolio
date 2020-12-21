@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aarenchu-e-portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js",
+    "main.js.map": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js.map",
+    "runtime-main.js": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js",
+    "runtime-main.js.map": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js.map",
+    "static/js/2.55cc19f3.chunk.js": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js",
+    "static/js/2.55cc19f3.chunk.js.map": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js.map",
+    "static/js/3.c64226c9.chunk.js": "/aarenchu-e-portfolio/static/js/3.c64226c9.chunk.js",
+    "static/js/3.c64226c9.chunk.js.map": "/aarenchu-e-portfolio/static/js/3.c64226c9.chunk.js.map",
+    "index.html": "/aarenchu-e-portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/aarenchu-e-portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.55cc19f3.chunk.js.LICENSE.txt": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js.LICENSE.txt",
+    "static/media/MockService_Diagram.89f8a424.png": "/aarenchu-e-portfolio/static/media/MockService_Diagram.89f8a424.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d87ae243.js",
+    "static/js/2.55cc19f3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.53c6f482.chunk.js"
+  ]
+}
