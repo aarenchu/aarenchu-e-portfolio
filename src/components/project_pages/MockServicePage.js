@@ -87,9 +87,9 @@ export default function MockServicePage() {
                 from my coworker, and after the demo, the team all received a thank you e-mail from our manager and 
                 project manager. My project allowed for our team to demo the product from end to end. Through this 
                 project, I learned of all the many different tools from AWS, such as the API Gateway, Lambda functions,
-                and DynamoDB. I also developed my demo presentation skills, when I helped demo my project to the rest
-                of the company. In addition, I improved on my programming skills after writing in both Python and 
-                JavaScript.
+                and DynamoDB. I also developed my demo presentation skills, such as creating PowerPoint slides and rehearsing
+                my presentation, when I had the opportunity to demo my project to the rest of the company. 
+                In addition, I improved on my programming skills after writing in both Python and JavaScript.
             </Typography>
           </Container>
         </div>
