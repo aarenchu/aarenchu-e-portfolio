@@ -5,7 +5,7 @@ import Album from './components/site_pages/Album';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/aarenchu-e-portfolio">
+    <BrowserRouter>
       <Route exact path="/" component={Album} />
       <Route path="/mockservice" component={MockServicePage} />
     </BrowserRouter>
