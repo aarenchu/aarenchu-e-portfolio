@@ -13,6 +13,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 import Link from '@material-ui/core/Link';
 import MockServiceDiagram from '../../MockService_Diagram.png';
+import WorkCertificate from '../../workcertificate.jpg';
 
 function Copyright() {
     return (
@@ -58,9 +59,6 @@ const useStyles = makeStyles((theme) => ({
     },
   }));
 
-// To add more projects, add more numbers
-const cards = [1];
-
 export default function Album() {
     const classes = useStyles();
     return(
@@ -89,8 +87,7 @@ export default function Album() {
             <Container className={classes.cardGrid} maxWidth="md">
                 {/* End hero unit */}
                 <Grid container spacing={4}>
-                {cards.map((card) => (
-                    <Grid item key={card} xs={12} sm={6} md={4}>
+                    <Grid item xs={12} sm={6} md={4}>
                     <Card className={classes.card}>
                         <CardMedia
                         className={classes.cardMedia}
@@ -112,7 +109,28 @@ export default function Album() {
                         </CardActions>
                     </Card>
                     </Grid>
-                ))}
+                    <Grid item xs={12} sm={6} md={4}>
+                    <Card className={classes.card}>
+                        <CardMedia
+                        className={classes.cardMedia}
+                        image={WorkCertificate}
+                        title="Certificate from Work"
+                        />
+                        <CardContent className={classes.cardContent}>
+                        <Typography gutterBottom variant="h5" component="h2">
+                            Java MySQL Querying Program
+                        </Typography>
+                        <Typography>
+                        This program was created for the team based on requirements provided by the client.
+                        </Typography>
+                        </CardContent>
+                        <CardActions>
+                        <Button size="small" color="primary" href="/javamysqlqueryingprogram">
+                            View
+                        </Button>
+                        </CardActions>
+                    </Card>
+                    </Grid>
                 </Grid>
             </Container>
             </main>
