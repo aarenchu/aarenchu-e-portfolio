@@ -75,12 +75,14 @@ export default function JavaMySqlQueryingProgram() {
             </Typography>
             <img src={WorkCertificate} alt="Certificate from Work" />
             <Typography variant="p" align="left" color="textSecondary" paragraph>
-                This program was created for the team based on requirements provided by the clients.
-                I was required to complete this project by the time we were to demo to the clients.
+                This program is a part of a health data access program for citizens in the
+                Atlantic provinces.
+                I was required to complete this project by the time we were to demo to the client.
+                I used an Amazon Cloud (AWS) environment to provision a relational database (RDS) and import clinical data.
                 I wrote most of the Java code to connect to the database using a framework, and I also populated the table with data
                 given to us by the clients, using MySQL statements.
-                After finishing some work and testing my own code, I would submit my a pull request for
-                my branch and my coworker would review my code before merging it with the rest of the project.
+                I wrote Java code for retrieving data from the RDS database using a Java SQL framework (JOOQ).
+                I used GitHub for version control.  After completing and testing the code, I submitted a pull request for my code branch  and my coworker would review my code before merging it with the rest of the project.
                 For this project, I needed my research skills to find which Java MySQL framework to use.
                 I also needed my programming skills to write clean Java code and unit tests. 
                 In addition, I needed my communication skills, since I needed 
@@ -88,8 +90,7 @@ export default function JavaMySqlQueryingProgram() {
                 project was completed after the demo since the client requested some changes.
                 Our team all received certificates from the company for our good work. Also,
                 the client congratulated us after our demo and were pleased. 
-                My project played an important role in the product. Through this 
-                project, I learned of another AWS tool called RDS.
+                My project played an important role in the product.
                 In addition, I improved on my programming skills after writing in Java and some MySQL.
             </Typography>
           </Container>
