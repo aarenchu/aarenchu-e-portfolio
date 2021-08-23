@@ -14,6 +14,7 @@ import Container from '@material-ui/core/Container';
 import Link from '@material-ui/core/Link';
 import MockServiceDiagram from '../../MockService_Diagram.png';
 import WorkCertificate from '../../workcertificate.jpg';
+import AnsibleScriptsThumbnail from '../../ansiblescriptsthumbnail.png';
 
 function Copyright() {
     return (
@@ -126,6 +127,29 @@ export default function Album() {
                         </CardContent>
                         <CardActions>
                         <Button size="small" color="primary" href="/javamysqlqueryingprogram">
+                            View
+                        </Button>
+                        </CardActions>
+                    </Card>
+                    </Grid>
+                    <Grid item xs={12} sm={6} md={4}>
+                    <Card className={classes.card}>
+                        <CardMedia
+                        className={classes.cardMedia}
+                        image={AnsibleScriptsThumbnail}
+                        title="Thumbnail of Video Demo for Ansible Scripts"
+                        />
+                        <CardContent className={classes.cardContent}>
+                        <Typography gutterBottom variant="h5" component="h2">
+                            Ansible Scripts for Automating Publication
+                        </Typography>
+                        <Typography>
+                        These scripts were created for a different team in the company who had originally manually uploaded
+                        and published data by themselves.
+                        </Typography>
+                        </CardContent>
+                        <CardActions>
+                        <Button size="small" color="primary" href="/ansiblescripts">
                             View
                         </Button>
                         </CardActions>
