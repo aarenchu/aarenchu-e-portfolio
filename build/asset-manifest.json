@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/aarenchu-e-portfolio/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js",
-    "main.js.map": "/aarenchu-e-portfolio/static/js/main.53c6f482.chunk.js.map",
-    "runtime-main.js": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js",
-    "runtime-main.js.map": "/aarenchu-e-portfolio/static/js/runtime-main.d87ae243.js.map",
-    "static/js/2.55cc19f3.chunk.js": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js",
-    "static/js/2.55cc19f3.chunk.js.map": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js.map",
-    "static/js/3.c64226c9.chunk.js": "/aarenchu-e-portfolio/static/js/3.c64226c9.chunk.js",
-    "static/js/3.c64226c9.chunk.js.map": "/aarenchu-e-portfolio/static/js/3.c64226c9.chunk.js.map",
-    "index.html": "/aarenchu-e-portfolio/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/aarenchu-e-portfolio/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.55cc19f3.chunk.js.LICENSE.txt": "/aarenchu-e-portfolio/static/js/2.55cc19f3.chunk.js.LICENSE.txt",
-    "static/media/MockService_Diagram.89f8a424.png": "/aarenchu-e-portfolio/static/media/MockService_Diagram.89f8a424.png"
+    "main.js": "./static/js/main.f70b89cb.chunk.js",
+    "main.js.map": "./static/js/main.f70b89cb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1220e327.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1220e327.js.map",
+    "static/js/2.c1042c14.chunk.js": "./static/js/2.c1042c14.chunk.js",
+    "static/js/2.c1042c14.chunk.js.map": "./static/js/2.c1042c14.chunk.js.map",
+    "static/js/3.3e39a298.chunk.js": "./static/js/3.3e39a298.chunk.js",
+    "static/js/3.3e39a298.chunk.js.map": "./static/js/3.3e39a298.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.c1042c14.chunk.js.LICENSE.txt": "./static/js/2.c1042c14.chunk.js.LICENSE.txt",
+    "static/media/MockService_Diagram.89f8a424.png": "./static/media/MockService_Diagram.89f8a424.png",
+    "static/media/ansiblescriptsthumbnail.85227c0e.png": "./static/media/ansiblescriptsthumbnail.85227c0e.png",
+    "static/media/workcertificate.b1a54d11.jpg": "./static/media/workcertificate.b1a54d11.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d87ae243.js",
-    "static/js/2.55cc19f3.chunk.js",
-    "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.53c6f482.chunk.js"
+    "static/js/runtime-main.1220e327.js",
+    "static/js/2.c1042c14.chunk.js",
+    "static/js/main.f70b89cb.chunk.js"
   ]
 }
